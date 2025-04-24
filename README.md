@@ -106,6 +106,4 @@ The project follows a structured approach:
 
 Contributions to this project are welcome. Please submit pull requests with detailed descriptions of your changes.
 
-## License
 
-This project is licensed under the [Specify License] License.

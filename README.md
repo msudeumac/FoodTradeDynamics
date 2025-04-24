@@ -102,8 +102,6 @@ The project follows a structured approach:
    
 2.  Run the Python scripts to perform data cleaning, analysis, and modeling.
 
-## Contributing
 
-Contributions to this project are welcome. Please submit pull requests with detailed descriptions of your changes.
 
 
